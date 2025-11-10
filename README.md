@@ -1,7 +1,9 @@
 # 👋 Olá! Eu sou o Jonathan Gonçalves  
 
 🎓 Estudante de **Sistemas da Informação** na **UNIRIO**  
-🔭 Estou estagiando como Analista e Engenheiro de Dados na @Finep
+
+🔭 Estou estagiando como Analista e Engenheiro de Dados na @Finep             
+
 💻 Tenho grandes paixões por **Java**, **Desenvolvimento Back-End** e **Desenvolvimento Web**
 
 ## 🚀 Tecnologias que uso

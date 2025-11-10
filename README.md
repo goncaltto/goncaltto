@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Jonathan Gonçalves  
 
-<!--
-**jengoncaltto/jengoncaltto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas da Informação** na **UNIRIO**  
+🔭 Estou estagiando como Analista e Engenheiro de Dados na @Finep
+💻 Tenho grandes paixões por **Java**, **Desenvolvimento Back-End** e **Desenvolvimento Web**
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jengoncalto&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jengoncalto&layout=compact&theme=tokyonight)
+
+## 🌱 Em aprendizado
+Atualmente estudando **Desenvolvimento Java**, **Boas práticas de código** e **Análise de Dados**
+
+## 😄 Pronouns: Ele/Dele
+📫 **Contato:** [jenifergonbrito@gmail.com](mailto:jenifergonbrito@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/jgoncalvesbrito](https://www.linkedin.com/in/jgoncalvesbrito)

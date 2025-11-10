@@ -16,6 +16,6 @@
 ## 🌱 Em aprendizado
 Atualmente estudando **Desenvolvimento Java**, **Boas práticas de código** e **Análise de Dados**
 
-## 😄 Pronouns: Ele/Dele
+😄 **Pronouns:** Ele/Dele
 📫 **Contato:** [jenifergonbrito@gmail.com](mailto:jenifergonbrito@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/jgoncalvesbrito](https://www.linkedin.com/in/jgoncalvesbrito)

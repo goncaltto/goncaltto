@@ -10,8 +10,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jengoncalto&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jengoncalto&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jengoncaltto&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jengoncaltto&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🌱 Em aprendizado
 Atualmente estudando **Desenvolvimento Java**, **Boas práticas de código** e **Análise de Dados**

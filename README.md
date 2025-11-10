@@ -20,7 +20,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jengoncaltto&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🌱 Em aprendizado
-Atualmente estudando **Desenvolvimento Java**, **Boas práticas de código** e **Análise de Dados**
+Atualmente estudando **Desenvolvimento Java e SpringBoot** e **Análise de Dados Com SQLOracle**
 
 😄 **Pronouns:** Ele/Dele
 📫 **Contato:** [jenifergonbrito@gmail.com](mailto:jenifergonbrito@gmail.com)

@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Sistemas da Informação** na **UNIRIO**  
 
-🔭 Estou estagiando como Analista e Engenheiro de Dados na @Finep             
+🔭 Estou estagiando como Engenheiro de Dados na @Finep             
 
 💻 Tenho grandes paixões por **Java**, **Desenvolvimento Back-End** e **Desenvolvimento Web**
 

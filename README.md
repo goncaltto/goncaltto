@@ -16,12 +16,12 @@
 
 
 ## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jengoncaltto&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jengoncaltto&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goncaltto&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncaltto&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🌱 Em aprendizado
 Atualmente estudando **Desenvolvimento Java e SpringBoot** e **Análise de Dados Com SQLOracle**
 
 😄 **Pronouns:** Ele/Dele
-📫 **Contato:** [jenifergonbrito@gmail.com](mailto:jenifergonbrito@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/jgoncalvesbrito](https://www.linkedin.com/in/jgoncalvesbrito)
+📫 **Contato:** [jgbrito8001@gmail.com](mailto:jgbrito8001o@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/jgonbrito](https://www.linkedin.com/in/jgonbrito)

@@ -1,8 +1,10 @@
-# 👋 Olá! Eu sou o Jonathan Gonçalves  
+# 👋 Olá! Eu sou o Jonathan
 
-🎓 Estudante de **Sistemas da Informação** na **UNIRIO**  
-
-🔭 Estou estagiando como Engenheiro de Dados na @Finep             
+Sou **Estagiário em Engenharia de Dados** na Finep e graduando em **Sistemas da Informação** pela UNIRIO.
+Meu objetivo profissional é evoluir como desenvolvedor de software, buscando constante capacitação na área
+Durante a faculdade, desenvolvi grande interesse por Java, sendo a principal tecnologia dos meus projetos. 
+Com o tempo, entendi a importância de saber como aplicar as tecnologias, assim aprofundei meus conhecimentos em Spring Boot para construção de APIs REST e, em seguida,
+aprendi Angular para o desenvolvimento front-end.
 
 💻 Tenho grandes paixões por **Java**, **Desenvolvimento Back-End** e **Desenvolvimento Web**
 
@@ -15,12 +17,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goncaltto&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncaltto&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 🌱 Em aprendizado
-Atualmente estudando **Desenvolvimento Java e SpringBoot** e **Análise de Dados Com SQLOracle**
+Atualmente estou estudando o ambiente e e serviços da AWS.
 
 😄 **Pronouns:** Ele/Dele
 📫 **Contato:** [jgbrito8001@gmail.com](mailto:jgbrito8001o@gmail.com)

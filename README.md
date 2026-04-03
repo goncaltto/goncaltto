@@ -1,8 +1,11 @@
 # 👋 Olá! Eu sou o Jonathan
 
 Sou **Estagiário em Engenharia de Dados** na Finep e graduando em **Sistemas da Informação** pela UNIRIO.
-Meu objetivo profissional é evoluir como desenvolvedor de software, buscando constante capacitação na área
+
+Meu objetivo profissional é evoluir como desenvolvedor de software, buscando constante capacitação na área.
+
 Durante a faculdade, desenvolvi grande interesse por Java, sendo a principal tecnologia dos meus projetos. 
+
 Com o tempo, entendi a importância de saber como aplicar as tecnologias, assim aprofundei meus conhecimentos em Spring Boot para construção de APIs REST e, em seguida,
 aprendi Angular para o desenvolvimento front-end.
 

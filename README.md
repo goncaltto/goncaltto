@@ -6,7 +6,7 @@ Durante a faculdade, desenvolvi grande interesse por Java, sendo a principal tec
 Com o tempo, entendi a importância de saber como aplicar as tecnologias, assim aprofundei meus conhecimentos em Spring Boot para construção de APIs REST e, em seguida,
 aprendi Angular para o desenvolvimento front-end.
 
-💻 Tenho grandes paixões por **Java**, **Desenvolvimento Back-End** e **Desenvolvimento Web**
+💻 Tenho grandes paixões por **Java** e **Desenvolvimento Back-End**
 
 ## 🚀 Tecnologias que uso
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)

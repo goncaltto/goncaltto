@@ -20,7 +20,7 @@ aprendi Angular para o desenvolvimento front-end.
 
 
 ## 🌱 Em aprendizado
-Atualmente estou estudando o ambiente e e serviços da AWS.
+Atualmente estou estudando o ambiente e serviços da AWS.
 
 😄 **Pronouns:** Ele/Dele
 📫 **Contato:** [jgbrito8001@gmail.com](mailto:jgbrito8001o@gmail.com)
